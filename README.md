@@ -30,7 +30,7 @@ After `cloning` the assignment you should make two commits:
 ---
 
 
-Your name: <Benjamin Ma> Date: <07/25/2025>
+Your name:  Benjamin Ma Date: <07/25/2025>
 
 
 ---
